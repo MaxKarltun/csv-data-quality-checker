@@ -9,6 +9,10 @@ A **Streamlit** web application that analyzes any CSV file for data quality issu
 
 Built as a data engineering / data analytics portfolio project.
 
+## 🚀 Live Demo
+
+[Open the CSV Data Quality Checker](https://csv-data-quality-checker-fx9ysbdm9zynsh6m2yzurj.streamlit.app/)
+
 ## ✨ Features
 
 - **📁 CSV Upload** — drag and drop any CSV file
