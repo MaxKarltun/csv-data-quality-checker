@@ -100,4 +100,4 @@ Score = 100 − (% of missing cells) − (% of duplicate rows)
 
 ## 👤 Author
 
-**Max Karltun** — IT student concentrating in Data Analytics, building toward a career in Data Engineering.
+**Max Karltun** — IT -  Data Engineering.
