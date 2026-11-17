@@ -21,6 +21,16 @@ Built as a data engineering / data analytics portfolio project.
 - **🧾 Column Details Table** — per-column data type, missing %, and unique value counts
 - **🔍 Data Preview** — first 50 rows of the uploaded dataset
 
+## 🖼️ App Preview
+
+Start by uploading a CSV file:
+
+![CSV Data Quality Checker waiting for a CSV upload](screenshots/upload-empty-state.png)
+
+After upload, review the dataset summary, preview, and quality score:
+
+![CSV Data Quality Checker showing a dataset overview and quality score](screenshots/quality-report-example.png)
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
