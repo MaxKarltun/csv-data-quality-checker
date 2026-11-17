@@ -1,5 +1,10 @@
 # 📊 CSV Data Quality Checker
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/python/)
+
 A **Streamlit** web application that analyzes any CSV file for data quality issues — missing values, duplicate rows, and column-level problems — and summarizes everything into a single **Data Quality Score** with interactive **Plotly** visualizations.
 
 Built as a data engineering / data analytics portfolio project.
